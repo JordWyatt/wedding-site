@@ -6,6 +6,7 @@ import {
   imageWrapper,
   image,
   date,
+  venue,
 } from "../styles/home.module.css"
 
 export default function Home() {
@@ -18,7 +19,7 @@ export default function Home() {
         </div>
         <p>Please join us for our wedding celebration on</p>
         <h1 className={date}>June 11, 2022</h1>
-        <h2>Waxham Barn</h2>
+        <h2 className={venue}>Waxham Barn, Norfolk</h2>
       </div>
     </Layout>
   )

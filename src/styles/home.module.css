@@ -19,7 +19,7 @@
 }
 
 .home h2 {
-  font-family: "Parisienne";
+  font-family: "Montserrat";
 }
 
 .home img {
@@ -27,15 +27,10 @@
   height: auto;
 }
 
-.home p {
-  font-size: 24px;
-}
-
-.home h1,
-.home h2 {
-  font-size: 48px;
-}
-
 .date {
   text-transform: uppercase;
+}
+
+.venue {
+  padding: 20px 0px;
 }

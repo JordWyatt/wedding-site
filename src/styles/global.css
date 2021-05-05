@@ -1,10 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=BioRhyme:wght@300;400;500;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Parisienne:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cardo:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap");
 
 * {
   margin: 0;
   padding: 0;
-  font-family: "BioRhyme";
+  font-family: "Cardo";
   color: #222;
 }
 html,
@@ -17,6 +17,7 @@ body {
 p {
   margin: 16px auto;
   line-height: 1.5em;
+  font-size: 24px;
 }
 
 hr {
@@ -61,4 +62,30 @@ nav a:hover {
 
 .content {
   padding: 10px 0px;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: 400;
+}
+
+h2 {
+  font-weight: 100;
+  font-size: 36px;
+}
+
+@media all and (min-width: 100px) and (max-width: 480px) {
+  p {
+    font-size: 18px;
+  }
+
+  h1 {
+    font-size: 36px;
+    font-weight: 400;
+  }
+
+  h2 {
+    font-weight: 100;
+    font-size: 24px;
+  }
 }

@@ -5,7 +5,7 @@ export default function Venue() {
     <Layout>
       <h1>Venue</h1>
       <p>The ceremony and reception will be held at Waxham Barn:</p>
-      <p>Waxham Great Barn, Coast Road, Waxham, Norfolk, NR12 0DZ</p>
+      <i>Waxham Great Barn, Coast Road, Waxham, Norfolk, NR12 0DZ</i>
       <p>
         Directions to the venue can be found on{" "}
         <a href="https://goo.gl/maps/MGSQoTf3ywewanKh9">Google Maps</a>
