@@ -1,5 +1,6 @@
 import React from "react"
 import Layout from "../components/Layout"
+import { StaticImage } from "gatsby-plugin-image"
 import {
   home,
   announcement,
@@ -15,7 +16,12 @@ export default function Home() {
       <div className={home}>
         <div className={imageWrapper}>
           <h1 className={announcement}>We're getting married!</h1>
-          <img className={image} src="/barn.jpg" />
+          <StaticImage
+            className={image}
+            src="../images/barn.jpg"
+            placeholder="blurred"
+            alt="barn"
+          />
         </div>
         <p>Please join us for our wedding celebration on</p>
         <h1 className={date}>June 11, 2022</h1>

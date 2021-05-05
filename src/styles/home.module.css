@@ -1,9 +1,11 @@
-.home p {
+p {
   font-style: italic;
 }
 
 .imageWrapper {
   position: relative;
+  max-height: 1000px;
+  overflow: hidden;
 }
 
 .announcement {
@@ -18,13 +20,12 @@
   padding: 20px;
 }
 
-.home h2 {
+h2 {
   font-family: "Montserrat";
 }
 
-.home img {
-  width: 100%;
-  height: auto;
+img {
+  z-index: -1;
 }
 
 .date {
