@@ -7,7 +7,7 @@ export default function Navbar() {
       <Link to="/details">Details</Link>
       <Link to="/travel">Travel & Accomodation</Link>
       <Link to="/venue">Venue</Link>
-      <Link to="/rsvp">RSVP</Link>
+      <a href="https://forms.gle/DQDEU2mwNpGYmU2MA">RSVP</a>
     </nav>
   )
 }

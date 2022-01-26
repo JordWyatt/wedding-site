@@ -9,7 +9,7 @@ export default function Layout({ children }) {
       <Link className="header" to="/">
         <h2>Hollie & Jordan</h2>
       </Link>
-      {/* <Navbar /> */}
+      <Navbar />
       <div className="content">{children}</div>
     </div>
   )

@@ -13,11 +13,14 @@ body {
 }
 body {
   background: #f3f3f3;
+  padding-left: 5%;
+  padding-right: 5%;
 }
+
 p {
   margin: 16px auto;
   line-height: 1.5em;
-  font-size: 24px;
+  font-size: 18px;
 }
 
 hr {
@@ -55,6 +58,7 @@ nav a {
   text-decoration: none;
   border-bottom: 3px solid transparent;
 }
+
 nav a:hover {
   border-color: #222;
   border-width: 1.5px;
@@ -74,11 +78,12 @@ h2 {
   font-size: 36px;
 }
 
-@media all and (min-width: 100px) and (max-width: 480px) {
-  p {
-    font-size: 18px;
-  }
+h3 {
+  font-weight: 50;
+  font-size: 24px;
+}
 
+@media all and (min-width: 100px) and (max-width: 480px) {
   h1 {
     font-size: 36px;
     font-weight: 400;
