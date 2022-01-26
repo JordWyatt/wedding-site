@@ -7,7 +7,7 @@ export default function Details() {
       <div>
         <h3>📍 Where? 📍</h3>
         <p>Waxham Great Barn, Coast Road, Waxham, Norfolk, NR12 0DZ</p>
-        <h3>📆 When? 📆</h3>
+        <h3>🗓 When? 🗓</h3>
         <p>11th June 2022. Ceremony @ 2pm, Reception from 7pm</p>
         <h3>🍟 Will there be food? 🐟</h3>
         <p>There will be food at both the ceremony and the reception</p>
