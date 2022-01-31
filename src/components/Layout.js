@@ -10,6 +10,7 @@ export default function Layout({ children }) {
         <h2>Hollie & Jordan</h2>
       </Link>
       <Navbar />
+      <hr style={{ marginBottom: "20px" }} />
       <div className="content">{children}</div>
     </div>
   )

@@ -62,6 +62,10 @@ nav a:hover {
   border-width: 1.5px;
 }
 
+.row {
+  padding: 20px 0px;
+}
+
 h1,
 h2,
 h3,
@@ -71,7 +75,7 @@ h6,
 p,
 ul,
 ol {
-  padding: 0px 25px;
+  padding: 0px 10px;
 }
 
 h1 {
