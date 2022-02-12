@@ -44,6 +44,10 @@ hr {
   justify-content: space-evenly;
 }
 
+.content {
+  width: 75%;
+}
+
 nav {
   flex: 0 0 100%;
   margin: 20px auto;
@@ -112,6 +116,14 @@ h3 {
     text-align: center;
     flex-grow: 0;
     /* margin: 20px auto; */
+  }
+
+  .content {
+    width: 85%;
+  }
+
+  nav a {
+    margin-left: 0px;
   }
 
   nav > * {

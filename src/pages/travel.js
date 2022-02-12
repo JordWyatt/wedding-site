@@ -6,16 +6,27 @@ export default function Travel() {
     <Layout>
       <div style={{ textAlign: "center" }}>
         <div className="row">
-          <h3>Travel to the venue</h3>
+          <h3>Travel</h3>
           <p>
-            {" "}
-            For travel to the venue for ceremony guests, a coach will be
-            organised nearer the time for those located in and around Norwich.{" "}
+            For ceremony guests, a coach will be organised from Norwich to the
+            venue.
           </p>
           <p>
             For those making their own way, we'd recommend either driving or
             getting a taxi (sorry it's a trek 😅). There is parking at the
             venue, and you're able to leave your car overnight if you wish.
+          </p>
+        </div>
+        <div className="row">
+          <h3>Accomodation</h3>
+          <p>
+            {" "}
+            We'd recommend those travelling down from the event to stay in
+            Norwich if you're not driving as accomodation near the venue is hard
+            to find and fairly remote. There are lots of reasonably priced
+            Airbnbs in Norwich, and it's a nice place to visit for the weekend.{" "}
+            If anyone unfamiliar with the area wants any recommendations or
+            advice please reach out to one of us.
           </p>
         </div>
         <h3>Local Taxi Companies</h3>
