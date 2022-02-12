@@ -119,7 +119,8 @@ h3 {
   }
 
   .content {
-    width: 87%;
+    width: 85%;
+    text-align: center;
   }
 
   nav a {
