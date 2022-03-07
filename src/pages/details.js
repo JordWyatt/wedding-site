@@ -8,7 +8,7 @@ export default function Details() {
         <div className="row">
           <h3>📍 Where? 📍</h3>
           <p>
-            Waxham Great Barn, Coast Road, Waxham, Norfolk, NR12 0DZ.{" "}
+            Waxham Great Barn, Coast Road, Waxham, Norfolk, NR12 0DZ. <br />
             <a href="https://goo.gl/maps/MGSQoTf3ywewanKh9">
               See it on Google Maps
             </a>
@@ -30,37 +30,16 @@ export default function Details() {
           <h3>🎁 Can I bring a gift? 🎁</h3>
           <p>
             We do not expect gifts, and please do not feel you have to, but if
-            you would like to please either:
-          </p>
-          <p>
-            <ul>
-              <li>
-                Make a donation to one of the following charities:
-                <ul style={{ paddingBottom: "10px" }}>
-                  <li>
-                    <a href="https://www.priscillabaconhospice.org.uk/donate/">
-                      Priscilla Bacon Hospice
-                    </a>
-                  </li>
-                  <li>
-                    <a href="https://www.eaaa.org.uk/support-us/make-a-donation/donate/step/1/single">
-                      East Anglian Air Ambulance
-                    </a>
-                  </li>
-                  <li>
-                    <a href="https://donation.macmillan.org.uk/">
-                      Macmillan Cancer Support
-                    </a>
-                  </li>
-                </ul>
-              </li>
-              <li>
-                Contribute to something we'd like to treat ourselves to:{" "}
-                <a href="https://prezola.com/wishlists/10249166/">
-                  https://prezola.com/wishlists/10249166/
-                </a>
-              </li>
-            </ul>
+            you would like to please either donate to charity or towards our
+            honeymoon fund here:
+            <br />
+            <a href="https://prezola.com/wishlists/10249166/">
+              https://prezola.com/wishlists/10249166/
+            </a>
+            <br />
+            <br />
+            Charity donations will go to us, but we will forward them to the
+            charities after the wedding.
           </p>
         </div>
       </div>

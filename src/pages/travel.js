@@ -8,13 +8,18 @@ export default function Travel() {
         <div className="row">
           <h3>Travel</h3>
           <p>
-            For ceremony guests, a coach will be organised from Norwich to the
-            venue.
+            To get to the venue we'd recommend either driving or getting a taxi
+            as the public transport links aren't great (sorry it's a trek 😅).
+            There is parking at the venue and you're able to leave your car
+            overnight if you wish.
           </p>
           <p>
-            For those making their own way, we'd recommend either driving or
-            getting a taxi (sorry it's a trek 😅). There is parking at the
-            venue, and you're able to leave your car overnight if you wish.
+            For travelling home, please ensure you've prebooked a taxi to your
+            destination. If you are coming with a small party and want are
+            looking for someone to possibly share a taxi with to save money
+            please contact us and we will try to pair you with someone going the
+            same direction (this is only viable on our end if you plan to stay
+            until the end, sorry!)
           </p>
         </div>
         <div className="row">
@@ -59,7 +64,7 @@ export default function Travel() {
               <ul>
                 <li>
                   <a href="https://www.stripesexpress.com/">
-                    Stripes Express (01603 666333)
+                    Stripes Express (01692 434007)
                   </a>
                 </li>
               </ul>
