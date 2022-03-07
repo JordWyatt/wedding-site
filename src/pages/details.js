@@ -22,8 +22,8 @@ export default function Details() {
         <div className="row">
           <h3>🍟 Will there be food? 🐟</h3>
           <p>
-            There will be food at both the ceremony and the reception. We'll
-            reach out regarding dietary requirements nearer the time.
+            There will be food at both the ceremony and the reception. Please
+            let us know of any dietary requirements when you RSVP.
           </p>
         </div>
         <div className="row">
@@ -31,7 +31,8 @@ export default function Details() {
           <p>
             We do not expect gifts, and please do not feel you have to, but if
             you would like to please either donate to charity or towards our
-            honeymoon fund here:
+            honeymoon fund here (please scroll down all the way to see all
+            options):
             <br />
             <a href="https://prezola.com/wishlists/10249166/">
               https://prezola.com/wishlists/10249166/
