@@ -15,23 +15,22 @@ export default function Travel() {
           </p>
           <p>
             For travelling home, please ensure you've prebooked a taxi to your
-            destination. If you are coming with a small party and want are
-            looking for someone to possibly share a taxi with to save money
-            please contact us and we will try to pair you with someone going the
-            same direction (this is only viable on our end if you plan to stay
-            until the end, sorry!)
+            destination. If you are coming with a small party and would liek to
+            share a taxi with someone to save money please contact us and we
+            will try to pair you with someone going the same direction (this is
+            only viable on our end if you plan to stay until the end, sorry!)
           </p>
         </div>
         <div className="row">
           <h3>Accomodation</h3>
           <p>
             {" "}
-            We'd recommend those travelling down from the event to stay in
-            Norwich if you're not driving as accomodation near the venue is hard
-            to find and fairly remote. There are lots of reasonably priced
-            Airbnbs in Norwich, and it's a nice place to visit for the weekend.{" "}
-            If anyone unfamiliar with the area wants any recommendations or
-            advice please reach out to one of us.
+            We'd recommend those travelling for the event to stay in Norwich if
+            you're not driving, as accomodation near the venue is hard to find
+            and fairly remote. There are lots of reasonably priced Airbnbs in
+            Norwich, and it's a nice place to visit for the weekend. If anyone
+            unfamiliar with the area wants any recommendations or advice please
+            reach out to one of us.
           </p>
         </div>
         <h3>Local Taxi Companies</h3>

@@ -17,7 +17,10 @@ export default function Details() {
         <div className="row">
           <h3>🗓 When? 🗓</h3>
           <p>11th June 2022.</p>
-          <p>Ceremony at 2pm (arrive from 1:30pm), Reception from 7pm</p>
+          <p>
+            Ceremony at 2pm (arrive from 1:30pm). <br />
+            Reception from 7pm until midnight.
+          </p>
         </div>
         <div className="row">
           <h3>🍟 Will there be food? 🐟</h3>
